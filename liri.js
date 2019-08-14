@@ -169,27 +169,33 @@ function movieThis(movieName) {
       //release year                                    
       "Released Year: " + movie.Year,    
       //rating                           
-      "IMDB Rating: " + movie.imdbRating,                           
+      "IMDB Rating: " + movie.imdbRating, 
+      //rt rating                         
       "Rotten Tomato Rating: " + JSON.stringify(movie.Ratings[1]),  
-      "Country: " + movie.Country,                                  
-      "Language: " + movie.Language,                                
-      "Plot of the movie: " + movie.Plot,                           
-      "Actors: " + movie.Actors,                                    
-    ].join("\n");                                                   string. Uses "\n", new line as a separator
+      //country
+      "Country: " + movie.Country,   
+      //language                               
+      "Language: " + movie.Language,    
+      //plot                            
+      "Plot of the movie: " + movie.Plot, 
+      //actors                          
+      "Actors: " + movie.Actors,    
+      //join with new new lines                                
+    ].join("\n");                                                  
       
+    //logs movie data
     console.log(movieData);
     log(movieData, movieName, logCommand);
 
   })
   .catch(function(error) {
     if (error.response) {
-      // The request was made and the server responded with a status code
-      // that falls out of the range of 2xx
-      console.log("---------------Data---------------");
+     
+      console.log("DATA ERROR");
       console.log(error.response.data);
-      console.log("---------------Status---------------");
+      console.log("STATUS");
       console.log(error.response.status);
-      console.log("---------------Status---------------");
+      console.log("STATUS");
       console.log(error.response.headers);
     } else if (error.request) {
       // The request was made but no response was received
@@ -204,13 +210,14 @@ function movieThis(movieName) {
 
 }
 
-// =================================================
 
+//do what it says function
 function doWhatItSays() {
   fs.readFile("random.txt", "utf8", function(error, data) {
     if (error) {
       console.log(error);
     }
+    //adds comma inbetween data
     var command = data.split(",");
     var action = command[0];
     var query = command[1].replace("\"", "").replace("\"", "");
@@ -232,7 +239,7 @@ function doWhatItSays() {
   })
 }
 
-// =================================================
+//function that logs data to log.txt
 
 function log(data, info, logCommand) { // log(param1, param2) and use parameters to log the data in log.txt
 
