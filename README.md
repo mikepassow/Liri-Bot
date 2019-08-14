@@ -41,6 +41,7 @@ This will output the following information to your terminal/bash window:
 <li>Rotten Tomatoes Rating.</li>
 <li>Rotten Tomatoes URL.</li>
 <li>If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'</li>
+</ul>
 
 <p>4: node liri.js do-what-it-says</p>
 
