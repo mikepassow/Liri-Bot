@@ -1,0 +1,103 @@
+
+Command: movie-this django
+
+
+Title: Django
+Released Year: 1966
+IMDB Rating: 7.3
+Rotten Tomato Rating: {"Source":"Rotten Tomatoes","Value":"92%"}
+Country: Italy, Spain
+Language: Italian
+Plot of the movie: A coffin-dragging gunslinger and a half-breed prostitute become embroiled in a bitter feud between a Klan of Southern racists and a band of Mexican Revolutionaries.
+Actors: Franco Nero, José Bódalo, Loredana Nusciak, Ángel Álvarez
+===========
+
+Command: spotify-this-song la+la+land
+
+
+Artist (s): YG
+Song: La La Land (feat. YG)
+Album: Carnival
+Preview URL: https://p.scdn.co/mp3-preview/e423b321c704592d84e3c0d74df3c4b31a0f7f63?cid=249594e2f0294a52a93054e489b0adf0
+===========
+
+Command: spotify-this-song la+la+land
+
+
+Artist (s): YG
+Song: La La Land (feat. YG)
+Album: La La Land EP
+Preview URL: https://p.scdn.co/mp3-preview/e423b321c704592d84e3c0d74df3c4b31a0f7f63?cid=249594e2f0294a52a93054e489b0adf0
+===========
+
+Command: spotify-this-song la+la+land
+
+
+Artist (s): Bryce Vine
+Song: La La Land
+Album: Carnival
+Preview URL: https://p.scdn.co/mp3-preview/201c922da2d0503998bf0c692a4ea55d62ce575f?cid=249594e2f0294a52a93054e489b0adf0
+===========
+
+Command: spotify-this-song la+la+land
+
+
+Artist (s): Bryce Vine
+Song: La La Land
+Album: La La Land EP
+Preview URL: https://p.scdn.co/mp3-preview/201c922da2d0503998bf0c692a4ea55d62ce575f?cid=249594e2f0294a52a93054e489b0adf0
+===========
+
+Command: spotify-this-song la+la+land
+
+
+Artist (s): Bryce Vine
+Song: La La Land - Acoustic
+Album: La La Land EP
+Preview URL: https://p.scdn.co/mp3-preview/f979ab84c9c5dfed5d2da7401891b1ffa5ef14e5?cid=249594e2f0294a52a93054e489b0adf0
+===========
+
+Command: spotify-this-song la+la+land
+
+
+Artist (s): Demi Lovato
+Song: La La Land
+Album: Don't Forget
+Preview URL: none provided
+===========
+
+Command: spotify-this-song la+la+land
+
+
+Artist (s): Emma Stone
+Song: City Of Stars - From "La La Land" Soundtrack
+Album: La La Land (Original Motion Picture Soundtrack)
+Preview URL: none provided
+===========
+
+Command: spotify-this-song la+la+land
+
+
+Artist (s): La La Land Cast
+Song: Another Day Of Sun
+Album: La La Land (Original Motion Picture Soundtrack)
+Preview URL: none provided
+===========
+
+Command: spotify-this-song la+la+land
+
+
+Artist (s): Arkadi
+Song: La La Land (feat. YG) - ARKADI Remix
+Album: La La Land EP
+Preview URL: https://p.scdn.co/mp3-preview/87ffd80c9478b94461bf48a3f953b38185be8ecf?cid=249594e2f0294a52a93054e489b0adf0
+===========
+
+Command: spotify-this-song la+la+land
+
+
+Artist (s): Jessica Rothe
+Song: Someone In The Crowd
+Album: La La Land (Original Motion Picture Soundtrack)
+Preview URL: none provided
+===========
